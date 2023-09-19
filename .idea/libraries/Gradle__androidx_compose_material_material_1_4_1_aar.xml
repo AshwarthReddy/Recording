@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.material:material:1.4.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d1501b3006102483c1ed680d66c1a5de/transformed/jetified-material-1.4.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d1501b3006102483c1ed680d66c1a5de/transformed/jetified-material-1.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d1501b3006102483c1ed680d66c1a5de/transformed/jetified-material-1.4.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material/material/1.4.1/9e22db0ceb4306e97812ac72d827bc9b05800c14/material-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
